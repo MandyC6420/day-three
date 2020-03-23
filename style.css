@@ -1,0 +1,19 @@
+.forecast {
+   
+    width: 10vw;
+    height: 10vh;
+    padding: 2em;
+    background-color: lightblue;
+    margin: 2em;
+
+}
+.flex-container{
+    display:flex;
+    flex-wrap: wrap;
+    justify-content: center;
+
+    <div class="parent">  
+    <div class="left">Left</div>
+    <div class="right">Right</div>
+  </div> 
+  }
